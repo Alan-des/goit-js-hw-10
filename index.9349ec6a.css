@@ -1,0 +1,2 @@
+.disabled{display:none}.loader{width:77px;height:77px;box-sizing:border-box;border:3px solid #bcb1b1;border-radius:50%;animation:rotation 1s linear infinite;display:inline-block;position:absolute;top:40%;left:48%}.loader:after{content:"";box-sizing:border-box;width:69px;height:69px;border:3px solid #ff3d00;border-color:#ff3d00 rgba(0,0,0,0);border-radius:50%;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}@keyframes rotation{0%{transform:rotate(0deg)}to{transform:rotate(360deg)}}.loader.disabled{display:none}
+/*# sourceMappingURL=index.9349ec6a.css.map */
